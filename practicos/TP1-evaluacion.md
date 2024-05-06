@@ -1,3 +1,35 @@
+## 01
+* ok
+
+## 05
+* ok
+* Muestra campo ID
+
+## 07
+* ok
+* Muestra campo ID
+
+## 09
+* No cumple consigna. hace con DOM
+* Formato de presentacion incorrecto
+
+## 10
+* ok
+* Muestra nro orden arriba
+
+## 12
+* Ok
+* Falta formato de tarjeta
+
+## 16
+* ok
+* Falta formato de tarjeta
+
+## 15
+* ok
+* Formato de las tarjetas largo
+* Mantiene Hola Mundo
+
 ## 17
 * Ok
 * No podre olvidar nunca esos colores :)
@@ -15,8 +47,20 @@
 * Ok
 * No borró el código de "¡Hola Mundo!"
 
+## 24
+* Ok
+* No borró el código de "¡Hola Mundo!"
+* No se deben anidar componentes (Contacto definidos dentro de App)
+
 ## 25
 * Nombre de propiedades en mayusculas
+
+## 29
+* ok
+* Agrega campo email
+
+## 33
+* ok
 
 ## 35
 * No usa componente para Contacto
@@ -53,6 +97,22 @@
 * Ok 
 * Es identico a 38
 
+## 43
+* ok
+* Muestra campo ID
+
 ## 44
 * Define Agenda como Contacto
 * No define Contacto
+
+## 46 
+* Ok
+* Usan "clase-p" en lugar de ".contacto-item p"
+
+## 49
+* ok
+* define componente Agenda dentro de componente App 
+* define lista de contactos dentro de App
+
+## 51
+* ok
