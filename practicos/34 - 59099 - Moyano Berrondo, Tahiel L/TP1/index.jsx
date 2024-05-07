@@ -9,7 +9,7 @@ const App = () =>(
 
 const db = [
     {
-        id:0 , nombre:"Lionel", apellido:"Messi", telefono:"3815072103"
+        id:0 , nombre:"Lisandro", apellido:"Moyano", telefono:"3815072103"
     },
    
     {
@@ -17,19 +17,19 @@ const db = [
     },
 
     {
-        id:1 , nombre:"Lucas", apellido:"Lazarte", telefono:"3815201307"
+        id:2 , nombre:"Lucas", apellido:"Lazarte", telefono:"3815201307"
     },
 
     {
-        id:1 , nombre:"Sofia", apellido:"Abregú", telefono:"3815575783"
+        id:3 , nombre:"Sofia", apellido:"Abregú", telefono:"3815575783"
     },
 
     {
-        id:1 , nombre:"Pia", apellido:"Juarez", telefono:"3816612976"
+        id:4 , nombre:"Pia", apellido:"Juarez", telefono:"3816612976"
     },
 
     {
-        id:1 , nombre:"Ana Paula", apellido:"Flores", telefono:"3815836868"
+        id:5 , nombre:"Ana Paula", apellido:"Flores", telefono:"3815836868"
     },
 ]
 const Contacto = ({nombre,apellido,telefono}) =>(
